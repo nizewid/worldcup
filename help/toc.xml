@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
+topicimage="ItemIco"-->
+    <tocitem text="Gestor de copas"   target="gestorcopas">
+        <tocitem text="Agregar Equipo" target="agregarequipo"/>
+        <tocitem text="Agregar Copa" target="agregarcopa"/>
+        <tocitem text="Modo Edicion" target="edicion"/>
+        <tocitem text="Modo Eliminar" target="eliminar"/>
+    </tocitem>
+</toc>
